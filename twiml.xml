@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice" language="en-US">
+        Hi! The Service Desk team addresses the incident to the person on duty. Please take a look at the task and let us know that you have taken it to work.
+    </Say>
+</Response>
